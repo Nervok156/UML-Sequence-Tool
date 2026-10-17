@@ -1,0 +1,6 @@
+{
+  "classes": [
+    {"name": "A", "attributes": ["x: int"], "methods": ["foo()"]},
+    {"name": "B", "attributes": ["y: int"], "methods": ["bar()"]}
+  ]
+}
